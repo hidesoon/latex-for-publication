@@ -4,7 +4,7 @@
 
 Recently, I start to use less MS word, but more LaTex to edit research reports or manuscripts for journals/conferences.
 
-I also encourage more people to use LaTex, especially for the ones who need write report regularly.
+I encourage more people to use LaTex, especially for the ones who need to write report regularly.
 
 Here is a very brief guide of how to learn, use, and collaborate with LaTex if you are very new to LaTex.
 
