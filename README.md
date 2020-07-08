@@ -145,15 +145,30 @@ sns.set_style("white", {
 then make the plot
 
 ```python
-fig = plt.figure(figsize=(4.5, 4.5))
-plt.plot(history.history['loss'])
-plt.plot(history.history['val_loss'])
-plt.ylabel('loss - mae')
-plt.xlabel('epoch')
-plt.legend(['train', 'test'], loc='upper right')
-fig_name=os.path.join('figs',model_name+'_1_'+'summarize history for Loss'+'.pdf')
-fig.savefig(fig_name,dpi=600)
+x_train_pred = model.predict(x_train_norm)
+
+train_mae_loss = np.mean(np.abs(x_train_pred - x_train), axis=1)
+
+sns.distplot(train_mae_loss, bins=50, kde=True)
+plt.xlim(left = 0)
+plt.xlabel("loss - mae")
+plt.ylabel("density of samples")
+
+# Get reconstruction loss threshold.
+threshold = np.max(train_mae_loss)
+print("Reconstruction error threshold: ", threshold)
+
+plt.tight_layout()
+
+fig_name=os.path.join('figs',model_name+'_2_'+'loss_train'+'.pdf')
+plt.savefig(fig_name,dpi=600, bbox_inches="tight")
 ```
+
+Output: 
+
+(NOTE: markdown can't display PDF, so I converted it to png, to show it here; the original PDF file is here [link](anomalydetection_5_loss_x.pdf), please check the quality with the original PDF file)
+
+![](example2.png)
 
 Watch out that I saved as PDF, with 600 dpi (IEEE required the artwork should not less than 300 DPI)
 
@@ -165,7 +180,6 @@ PDF image will have no problem if rescale the image.
 
 Here is an example figure from mine work.
 
-[link](anomalydetection_5_loss_x.pdf)
 
 ESP is also a good vector graph format, however, it is more difficult to generate or to embed in document.
 
