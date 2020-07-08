@@ -4,7 +4,7 @@
 
 Recently, I start to use less MS word, but more LaTex to edit research reports or manuscripts for journals/conferences.
 
-Why I want to avoid MS word? I believe most of us have experience this kind of frustration with if you and your coother try to work with MS word, this can be avoid in LaTex.
+Why I want to avoid MS word? I believe most of us have experienced this kind of frustration if you and your coauthor are trying to work with MS word. This kind of frustration can be avoided in LaTex.
 
 <img src="example.png" alt="drawing" width="400"/>
 
