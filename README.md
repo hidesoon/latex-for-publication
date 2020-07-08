@@ -2,16 +2,16 @@
 
 ## Motivation
 
-Recently, I start to use less MS word, but more LaTex to edit research reports or manuscripts for journals/conferences.
+Recently, I start to use less MS word, but more LaTeX to edit research reports or manuscripts for journals/conferences.
 
-Why I want to avoid MS word? I believe most of us have experienced this kind of frustration if you and your coauthor are trying to work with MS word. This kind of frustration can be avoided in LaTex.
+Why I want to avoid MS word? I believe most of us have experienced this kind of frustration if you and your coauthor are trying to work with MS word. This kind of frustration can be avoided in LaTeX.
 
 <img src="example.png" alt="drawing" width="400"/>
 
 
 I encourage more people to use LaTex, especially for ones who need to write report regularly.
 
-Here is a very brief guide of how to learn, use, and collaborate with LaTex if you are very new to LaTex.
+Here is a very brief guide of how to learn, use, and collaborate with LaTeX if you are very new to LaTex.
 
 
 ## What is LaTex?
@@ -31,25 +31,25 @@ extra parameters or packages included.
 
 ## How to learn LaTeX?
 
-Currently, there are two main sources, where you can find lots of LaTex information
+Currently, there are two main sources, where you can find lots of LaTeX information
 
-1. [Overleaf document](https://www.overleaf.com/learn) : best place to start if you have zero knowledge of LaTex
+1. [Overleaf document](https://www.overleaf.com/learn) : best place to start if you have zero knowledge of LaTeX
 2. [StackExchange- Tex](https://tex.stackexchange.com/) : best place to find the answer for your LaTex syntax issue
 
 Highly recommended to start with [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F) from Overleaf.
 
-## IDE of LaTex
+## IDE for LaTeX
 
-LaTex has a long history, so there are many tools or IDEs may help. However, I only would recommend the latest generation software, the tools which able to work with Source Version Management (such as Git), and able to work in a collective way with your coauthors.
+LaTeX has a long history, so there are many tools or IDEs may help. However, I only recommend the latest generation software, the tools which able to work with Source Version Management SVM (such as Git), and able to work as a collective way with your coauthors.
 
 The tools which can satisfy above considerations only left two major options:
 
-1. Overleaf.com: like the `google document`, but with LaTex syntax, very powerful.
+1. Overleaf.com: like the `google document`, but with LaTeX syntax, very powerful.
 2. [VScode + LaTeX workshop extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): if you are a 'professional' developer, you may want to stay with a 'professional' IDE.  VScode + LaTeX workshop extension can be a satisfy choice: remain the same workflows as what you do for programming, so not much different experience as you are writing your python script. Furthermore, if you are already a VScode user, I don't need to highlight how much power, that the VScode extension ecosystem can provide.
 
 If I work alone, I would go for *VScode + LaTeX workshop extension* for 100%. If need to work with coauthor who may not familiar with programming setup, I would recommend *Overleaf*, it would be a more comfortable experience. Overleaf can sync with Github, so there is no way to stop you working with your favourite programming setup while let you coauthor stay with *Overleaf*.
 
-Let me summarise the core add-value of using LaTex with the two recommended tools:
+Let me summarise the core add-value of using LaTeX with the two recommended tools:
 
 - Save the working progress gracefully (with the help of SVM)
 - Track the changes from each author, know who edit what, and when. You always have choice to discuss the changes, and able to roll it back if not comfortable with the change.
@@ -60,23 +60,23 @@ Let me summarise the core add-value of using LaTex with the two recommended tool
 
 ## What you should be careful if targeting to publish
 
-### LaTex template
+### LaTeX template
 
 Most of the journals are providing their LaTeX templates, embodied with their format requirements such as reference format, fonts, etc.
 
-Where to find these LaTex template?
+Where to find these LaTeX template?
 
 Search the information/guide for authors from the journal website, such as 
 
-Example of full package of guide for authors - use of LaTex template
+Example of full package of guide for authors - use of LaTeX template
 
 https://www.elsevier.com/authors/author-schemas/latex-instructions
 
 ### Figures
 
-How do you feel when you saw a blur (low resolution) figure in a paper? 
+*How do you feel when you saw a blur (low resolution) figure in a paper? *
 
-How do you feel when the author had not noted the meaning and unit at XY axis?
+*How do you feel when the author had not noted the meaning and unit at XY axis?*
 
 These kind of problems are very likely to stop the reader to read the rest of your contents.
 
