@@ -4,6 +4,11 @@
 
 Recently, I start to use less MS word, but more LaTex to edit research reports or manuscripts for journals/conferences.
 
+Why I want to avoid MS word? I believe most of us have experience this kind of frustration with if you and your coother try to work with MS word, this can be avoid in LaTex.
+
+<img src="example.png" alt="drawing" width="400"/>
+
+
 I encourage more people to use LaTex, especially for the ones who need to write report regularly.
 
 Here is a very brief guide of how to learn, use, and collaborate with LaTex if you are very new to LaTex.
@@ -51,9 +56,7 @@ Let me summarise the core add-value of using LaTex with the two recommended tool
 - Format the document very satisfactory, which make you enjoy more for writing, and frustrate less for formatting.
 
 
-I believe most of us have experience this kind of frustration with word, this can be avoid in LaTex.
 
-<img src="example.png" alt="drawing" width="400"/>
 
 ## What you should be careful if targeting to publish
 
