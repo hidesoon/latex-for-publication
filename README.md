@@ -65,13 +65,13 @@ Where to find these LaTeX template?
 
 Search the information/guide for authors from the journal website, such as 
 
-Example of full package of guide for authors - use of LaTeX template
+Example of LaTeX template
 
 https://www.elsevier.com/authors/author-schemas/latex-instructions
 
 ### Figures
 
-*How do you feel when you saw a blur (low resolution) figure in a paper? *
+*How do you feel when you saw a blur (low resolution) figure in a paper?*
 
 *How do you feel when the author had not noted the meaning and unit at XY axis?*
 
@@ -85,9 +85,6 @@ Example of full package of guide for authors
 
 https://www.elsevier.com/journals/learning-and-instruction/0959-4752/guide-for-authors
 
-Example of full package of guide for authors - artwork
-
-https://www.elsevier.com/journals/learning-and-instruction/0959-4752/guide-for-authors
 
 
 **The best standard for artwork is from IEEE, if you can satisfy this standard, you artwork should be approved from other journals.**
