@@ -11,7 +11,7 @@ Why I want to avoid MS word? I believe most of us have experienced this kind of 
 
 I encourage more people to use LaTex, especially for ones who need to write report regularly.
 
-Here is a very brief guide of how to learn, use, and collaborate with LaTeX if you are very new to LaTex.
+Here is a very brief guide of how to learn, use, and collaborate with LaTeX if you are very new to LaTeX.
 
 
 ## What is LaTex?
