@@ -47,18 +47,15 @@ The tools which can satisfy above considerations only left two major options:
 1. Overleaf.com: like the `google document`, but with LaTeX syntax, very powerful.
 2. [VScode + LaTeX workshop extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): if you are a 'professional' developer, you may want to stay with a 'professional' IDE.  VScode + LaTeX workshop extension can be a satisfy choice: remain the same workflows as what you do for programming, so not much different experience as you are writing your python script. Furthermore, if you are already a VScode user, I don't need to highlight how much power, that the VScode extension ecosystem can provide.
 
-If I work alone, I would go for *VScode + LaTeX workshop extension* for 100%. If need to work with coauthor who may not familiar with programming setup, I would recommend *Overleaf*, it would be a more comfortable experience. Overleaf can sync with Github, so there is no way to stop you working with your favourite programming setup while let you coauthor stay with *Overleaf*.
+If I work alone, I would go for *VScode + LaTeX workshop extension* for 100%. If need to work with coauthor who may not familiar with programming setup, I would recommend *Overleaf*, it would be a more comfortable experience. Overleaf can sync with Github, so there is no way to stop you working with your own favourite programming setup while let you coauthors stay with *Overleaf*.
 
-Let me summarise the core add-value of using LaTeX with the two recommended tools:
+Let me summarise the core add-values of using LaTeX with the two recommended tools:
 
 - Save the working progress gracefully (with the help of SVM)
 - Track the changes from each author, know who edit what, and when. You always have choice to discuss the changes, and able to roll it back if not comfortable with the change.
-- Format the document very satisfactory, which make you enjoy more for writing, and frustrate less for formatting.
+- Format the document with satisfactory, which make you enjoy more for writing, and frustrate less for formatting.
 
-
-
-
-## What you should be careful if targeting to publish
+## What should be careful if targeting to publish
 
 ### LaTeX template
 
