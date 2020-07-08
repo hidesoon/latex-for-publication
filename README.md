@@ -9,7 +9,7 @@ Why I want to avoid MS word? I believe most of us have experienced this kind of 
 <img src="example.png" alt="drawing" width="400"/>
 
 
-I encourage more people to use LaTex, especially for the ones who need to write report regularly.
+I encourage more people to use LaTex, especially for ones who need to write report regularly.
 
 Here is a very brief guide of how to learn, use, and collaborate with LaTex if you are very new to LaTex.
 
