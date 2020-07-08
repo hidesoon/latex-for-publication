@@ -45,7 +45,7 @@ LaTeX has a long history, so there are many tools or IDEs may help. However, I o
 The tools which can satisfy above considerations only left two major options:
 
 1. Overleaf.com: like the `google document`, but with LaTeX syntax, very powerful.
-2. [VScode + LaTeX workshop extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): if you are a 'professional' developer, you may want to stay with a 'professional' IDE.  VScode + LaTeX workshop extension can be a satisfy choice: remain the same workflows as what you do for programming, so not much different experience as you are writing your python script. Furthermore, if you are already a VScode user, I don't need to highlight how much power, that the VScode extension ecosystem can provide.
+2. [VScode + LaTeX workshop extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): if you are a 'professional' developer, you may want to stay with a 'professional' IDE.  VScode + LaTeX workshop extension can be a satisfy choice: remain the same workflows as what you do for programming, so not much different experience as you are writing your python script. Furthermore, if you are already a VScode user, no need to emphasize how powerful the VScode extension ecosystem is.
 
 If I work alone, I would go for *VScode + LaTeX workshop extension* for 100%. If need to work with coauthor who may not familiar with programming setup, I would recommend *Overleaf*, it would be a more comfortable experience. Overleaf can sync with Github, so there is no way to stop you working with your own favourite programming setup while let you coauthors stay with *Overleaf*.
 
