@@ -142,18 +142,10 @@ sns.set_style("white", {
 then make the plot
 
 ```python
-x_train_pred = model.predict(x_train_norm)
-
-train_mae_loss = np.mean(np.abs(x_train_pred - x_train), axis=1)
-
 sns.distplot(train_mae_loss, bins=50, kde=True)
 plt.xlim(left = 0)
 plt.xlabel("loss - mae")
 plt.ylabel("density of samples")
-
-# Get reconstruction loss threshold.
-threshold = np.max(train_mae_loss)
-print("Reconstruction error threshold: ", threshold)
 
 plt.tight_layout()
 
