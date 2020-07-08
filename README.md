@@ -178,9 +178,6 @@ PDF image will have no problem if rescale the image.
 
 ![](vector.png)
 
-Here is an example figure from mine work.
-
-
 ESP is also a good vector graph format, however, it is more difficult to generate or to embed in document.
 
 
