@@ -186,7 +186,7 @@ ESP is also a good vector graph format, however, it is more difficult to generat
 
 ## Summary
 
-These are some comments from me at this moment, please suggest if you spot something wrong, or know better method to recommend. Feel free to rise a issue.
+These are some comments from me at this moment, please suggest if you spot something wrong, or know better method to recommend. Feel free to rise an issue.
 
 Thanks,
 
