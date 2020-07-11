@@ -75,9 +75,9 @@ https://www.elsevier.com/authors/author-schemas/latex-instructions
 
 *How do you feel when the author had not noted the meaning and unit at XY axis?*
 
-These kind of problems are very likely to stop the reader to read the rest of your contents.
+These kind of problems are very likely to stop the reader from reading the rest of your contents.
 
-So the high quality journals will reject you if can not supply figure (artwork) with requirements.
+High quality journals may reject your manuscript if can not supply figure (artwork) with their requirements.
 
 Where to find these requirements?
 
